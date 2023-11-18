@@ -6,3 +6,5 @@ Some Useful Insights <br>
 - People who stayed in the respective place purchased more during the sales
 - Age group between 25-36 has done most spending
 You can check out some insights through this link
+## WorkFlow
+ ![alt-text](file:///C:/Users/Prakash/Desktop/Sacred%20heart/first%20sem/Big%20Data%20analytics/Final%20Project/team_seven_final_project.html)
